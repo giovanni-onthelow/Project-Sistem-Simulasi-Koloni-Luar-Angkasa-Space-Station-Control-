@@ -1,2 +1,3 @@
 # Project-Sistem-Simulasi-Koloni-Luar-Angkasa-Space-Station-Control-
-Sebuah sistem simulasi menjalankan dan memonitor sebuah koloni luar angkasa (Space Station)
+Sebuah sistem simulasi menjalankan dan memonitor sebuah koloni luar angkasa (Space Station) 	
+Saya membuat sebuah Sistem Simulasi Koloni Luar Angkasa. Sistem CLI ini mengelola stasiun luar angkasa secara komprehensif. Data kru diakses cepat dengan Hash Table, dan hierarki ruangan stasiun dipetakan menggunakan Tree. Antrean suplai logistik diproses melalui Queue, sementara inventaris pesawat dicatat dalam Linked List. Saat kapal berpatroli, riwayat koordinatnya disimpan di dalam Stack untuk kebutuhan backtracking. Fitur utama sistem ini adalah Navigasi Peta Intermediate yang dimodelkan sebagai Weighted Graph. Untuk mengolah rute antar planet yang kompleks, sistem menerapkan metode merge searching (kombinasi Sorting dan Searching) guna menemukan lokasi atau jalur dengan bobot (weight) terendah secara efisien.
