@@ -1,0 +1,10 @@
+Orion_V Suku_Cadang_Reaktor
+Hermes_Logistics Ransum_Makanan_Garnisun
+Artemis_II Peralatan_Medis_Darurat
+Starship_X Bahan_Bakar_Kripton
+Cygnus_Prime Modul_Eksperimen_Biologi
+Dragon_V2 Pakaian_Luar_Angkasa
+Progress_MS Filter_Oksigen
+Endurance_IV Kru_Pengganti
+USCSS_Nostromo Bijih_Mineral_Mentah
+The_Androver Uranium

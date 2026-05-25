@@ -1,0 +1,16 @@
+50 Modul_Utama_Komando
+30 Sektor_Pendukung_Hidup
+15 Asrama_Kru_Utama
+10 Fasilitas_Sanitasi
+25 Ruang_Rekreasi_Hologram
+40 Kantin_dan_Logistik
+35 Gudang_Penyimpanan_Makanan
+45 Pusat_Pengolahan_Air
+70 Sektor_Eksperimen_Ilmiah
+60 Fasilitas_Karantina_Medis
+55 Penyimpanan_Vaksin_Nol_Derajat
+65 Ruang_Observasi_Pasien
+85 Hanggar_Kapal_Penjelajah
+80 Gudang_Persenjataan_Pertahanan
+75 Ruang_Rehabilitasi
+95 Menara_Transmisi_Komunikasi

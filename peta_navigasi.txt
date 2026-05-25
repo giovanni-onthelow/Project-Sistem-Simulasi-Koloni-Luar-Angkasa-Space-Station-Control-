@@ -1,0 +1,23 @@
+LOC Stasiun_Komando_Utama
+LOC Bumi
+LOC Koloni_Mars_Prime
+LOC Gerbang_Jump_Jupiter
+LOC Sabuk_Asteroid_Ceres
+LOC Nebula_Orion
+LOC Exoplanet_Kepler
+LOC Pos_Terdepan_Pluto
+LOC Blackhole_Cygnus
+LOC Neptunus
+ROUTE Stasiun_Komando_Utama Bumi 150
+ROUTE Stasiun_Komando_Utama Koloni_Mars_Prime 380
+ROUTE Bumi Neptunus 20
+ROUTE Bumi Stasiun_Komando_Utama 150
+ROUTE Bumi Koloni_Mars_Prime 450
+ROUTE Koloni_Mars_Prime Gerbang_Jump_Jupiter 1200
+ROUTE Koloni_Mars_Prime Sabuk_Asteroid_Ceres 650
+ROUTE Gerbang_Jump_Jupiter Sabuk_Asteroid_Ceres 800
+ROUTE Gerbang_Jump_Jupiter Nebula_Orion 4500
+ROUTE Sabuk_Asteroid_Ceres Pos_Terdepan_Pluto 3000
+ROUTE Nebula_Orion Exoplanet_Kepler 2500
+ROUTE Exoplanet_Kepler Blackhole_Cygnus 6000
+ROUTE Pos_Terdepan_Pluto Blackhole_Cygnus 8000
